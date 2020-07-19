@@ -10,7 +10,10 @@
     "linebreak-style": ["error", "windows"],
     "indent": ["error", 4],
     "comma-dangle": "off",
-    "arrow-parens": "off"
+    "arrow-parens": "off",
+    "require-jsdoc": "off",
+    "quotes": "off",
+    "operator-linebreak": "off"
   },
   "extends": [
     "eslint:recommended",
